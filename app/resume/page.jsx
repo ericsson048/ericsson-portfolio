@@ -95,19 +95,14 @@ const education={
       duration: "2023"
     },
     {
-      institution:"Openclassroom",
-      position: "Junior Seminary of Kanyosha",
+      institution:"Junior Seminary of Kanyosha",
+      position: "High school",
       duration: "2018-2021"
-    },  
+    }, 
     {
       institution:"Openclassroom",
-      position: "Junior Seminary of Kanyosha",
-      duration: "2018-2021"
-    },  
-    {
-      institution:"Openclassroom",
-      position: "Junior Seminary of Kanyosha",
-      duration: "2018-2021"
+      position: "Objectif IA : learn about artificial intelligence",
+      duration: "05/2024"
     },   
     
   ]
