@@ -101,9 +101,14 @@ const education={
     }, 
     {
       institution:"Openclassroom",
-      position: "Objectif IA : learn about artificial intelligence",
-      duration: "05/2024"
-    },
+      position: "Junior Seminary of Kanyosha",
+      duration: "2018-2021"
+    },  
+    {
+      institution:"Openclassroom",
+      position: "Junior Seminary of Kanyosha",
+      duration: "2018-2021"
+    },   
     
   ]
 }
