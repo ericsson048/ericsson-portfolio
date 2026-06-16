@@ -1,8 +1,9 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/header";
-import PageTransition from "@/components/PageTransition";
-import Strairtransition from "@/components/strairtransition";
+import Header from "../components/header";
+import Strairtransition from "../components/strairtransition";
+import PageTransition from "../components/PageTransition";
+
 
 const inter = Inter({ subsets: ["latin"],
   weight:["100",'200','300','400','500','600','700','800'],
@@ -18,7 +19,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Header className= ""/>
+        <Header />
         <Strairtransition/>
         <PageTransition>{children}</PageTransition>        
         </body>

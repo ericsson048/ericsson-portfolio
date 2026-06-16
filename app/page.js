@@ -1,7 +1,7 @@
-import Socials from "@/components/Socials";
-import Photo from "@/components/Photo";
-import Stats from "@/components/Stats";
-import Resume from "@/components/Resume";
+import Socials from "../components/Socials";
+import Photo from "../components/Photo";
+import Stats from "../components/Stats";
+import Resume from "../components/Resume";
 
 
 export default function Home() {
